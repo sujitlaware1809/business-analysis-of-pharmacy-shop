@@ -1,4 +1,4 @@
-# Enhancing B2C Pharmacy Performance through Data-Driven Solutions
+# Enhancing B2C Pharmacy Performance through Data-Driven Solutions - Capstone Project - Business Data Management (BDM)
 
 This project presents data-driven strategies to enhance the performance of a B2C pharmacy by optimizing sales, inventory, and customer management. It was developed as part of the **Business Data Management (BDM)** course at **IIT Madras**.
 
