@@ -4,7 +4,7 @@ This project presents data-driven strategies to enhance the performance of a B2C
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - Analyzed daily transactional data from a pharmacy including product sales, pricing, inventory, and customer behavior.
 - Identified patterns and inefficiencies using statistical and visual techniques.
@@ -12,7 +12,7 @@ This project presents data-driven strategies to enhance the performance of a B2C
 
 ---
 
-## 📥 Data Sources
+## Data Sources
 
 1. **Sales Data**  
    Includes:
@@ -35,7 +35,7 @@ This project presents data-driven strategies to enhance the performance of a B2C
 
 ---
 
-## 🧪 Analysis Techniques
+## Analysis Techniques
 
 - **Descriptive Statistics**  
   Summarized key metrics such as revenue, cost, and margins.
@@ -51,7 +51,7 @@ This project presents data-driven strategies to enhance the performance of a B2C
 
 ---
 
-## 📈 Key Findings & Recommendations
+## Key Findings & Recommendations
 
 - Improved pricing strategies to increase profit margins.
 - Recommended optimal stock levels to reduce wastage and avoid shortages.
@@ -60,5 +60,5 @@ This project presents data-driven strategies to enhance the performance of a B2C
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
